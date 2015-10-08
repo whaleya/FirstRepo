@@ -34,7 +34,7 @@ def div(a, b):
     return a / b
 
 # Exponent function
-def exp(a, b)
+def exp(a, b):
 	return a ** b
 
 #Modulus function
